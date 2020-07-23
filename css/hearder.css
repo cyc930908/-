@@ -1,0 +1,8 @@
+#hearder{
+	background-color: seagreen;
+}
+#hearder>a{
+	font-size: 30px;
+	color: e8e8e8;
+	text-decoration: none;
+}

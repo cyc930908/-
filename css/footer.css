@@ -1,0 +1,6 @@
+.breadcrumb-item+.breadcrumb-item::before{
+	content: "|";
+}
+#my_footer{background-color:333333 ;font-size: smaller; color: 7F7F7F;}}
+#small_text{font-size: smaller; color: 7F7F7F;}
+ul{justify-content: center;}
